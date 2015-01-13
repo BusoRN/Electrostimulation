@@ -1,0 +1,1 @@
+Qt project (required Qt 5 for serial API). It has been tryed on Windows, Linux and Mac.
