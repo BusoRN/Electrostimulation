@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
     QApplication app(argc, argv);
     Dialog dialog;
     dialog.setWindowTitle("Electro-Stimulator Serial");
- //   dialog.setWindowIcon(QIcon("HSST2.ico"));
+    //app.setWindowIcon(QIcon("./HST.png"));
     //app.setWindowIcon(QIcon("HST2.ico"));
     dialog.show();
     return app.exec();

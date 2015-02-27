@@ -23,4 +23,4 @@ HEADERS  += dialog.h
 FORMS    += dialog.ui
 
 OTHER_FILES += \
-    HST2.ico
+    HST.png
